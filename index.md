@@ -7,6 +7,6 @@ Welcome to the Kingdom Hearts Wiki!
 This wiki focuses on Keyblades, worlds, and the characters that shape the story.
 
 ## Pages
-- [[Keyblades]]
-- [[Worlds]]
-- [[Characters]]
+- [Keyblades](Keyblades.md)
+- [Worlds](Worlds.md)
+- [Characters](Characters.md)
