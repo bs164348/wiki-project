@@ -1,7 +1,12 @@
-The Keyblade is one of the most iconic elements of the Kingdom Hearts series, a game franchise created by Square Enix. These mysterious weapons are more than just tools for combat—they are symbols of the heart, light, and darkness.
+# Kingdom Hearts Wiki
 
-In the world of Kingdom Hearts, Keyblades are wielded by chosen individuals known as Keyblade Masters or wielders. Each Keyblade has a unique design and abilities, often reflecting the personality and strength of its wielder. They are primarily used to fight creatures known as the Heartless, Nobodies, and other forces of darkness.
+Welcome to the Kingdom Hearts Wiki!
 
-Beyond their role in battle, Keyblades have the power to lock and unlock worlds, seal away darkness, and reveal hidden truths. Their origins and true nature remain one of the central mysteries of the series.
+*Kingdom Hearts* is an action role-playing game series developed by Square Enix in collaboration with Disney. The story follows Sora, a young boy who travels across many worlds to fight darkness and protect his friends.
 
-This wiki explores the different types of Keyblades, their wielders, and the lore behind them.
+This wiki focuses on Keyblades, worlds, and the characters that shape the story.
+
+## Pages
+- [[Keyblades]]
+- [[Worlds]]
+- [[Characters]]
